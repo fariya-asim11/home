@@ -1,0 +1,5 @@
+.navbar-nav a:hover {
+    box-shadow: 0 3px 50px rgb(184, 5, 5) inset;
+    border-radius: 5px;
+    padding: 10px;
+}
